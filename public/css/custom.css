@@ -1,0 +1,34 @@
+.footer p {
+    color: #7f8c8d;
+    margin: 0;
+    padding: 15px 0;
+    text-align: center;
+    background: #2d3e50;
+}
+
+.topbar-link-btn {
+    color: #fff !important;
+}
+@media only screen and (min-width: 641px) {
+    .blog-sidebar {
+        font-size: 1.4rem;
+    }
+}
+
+.blog-main {
+    padding: 20px 0;
+}
+
+.blog-title {
+    margin: 10px 0 20px 0;
+}
+
+.blog-meta {
+    font-size: 14px;
+    margin: 10px 0 20px 0;
+    color: #222;
+}
+
+.blog-meta a {
+    color: #27ae60;
+}
